@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 878f5cd6d7972864e85b8afde6fdb90c, type: 3}
+  m_Name: GeneralGameSounds
+  m_EditorClassIdentifier: 
+  MeleeSlash: {fileID: 8300000, guid: e95cc5dd55bc7cb41aa042e3040b13a3, type: 3}
+  MeleeMiss: {fileID: 8300000, guid: e95cc5dd55bc7cb41aa042e3040b13a3, type: 3}
+  MeleeSwing: {fileID: 8300000, guid: 2f41a310a8766f742bec4ed7add10010, type: 3}
+  RangedShoot: {fileID: 8300000, guid: 3652ab14178ba7e4690463d272a20120, type: 3}
+  RangedHit: {fileID: 8300000, guid: 4654b2eb591ba59459d0324f54a20a22, type: 3}
+  NoteMiss: {fileID: 8300000, guid: 7b283ccad0acf8a4cb40b458c1487b9d, type: 3}
+  GameWin: {fileID: 8300000, guid: e0af9573980af704e91bbc76f8f8eaa7, type: 3}
+  GameLose: {fileID: 8300000, guid: 3b9ed68730cebf74cb20e5f6ed1b1e83, type: 3}
+  ChangeWeapon: {fileID: 8300000, guid: 74f7c55382bf8674a94fd74c5f3c5c23, type: 3}
